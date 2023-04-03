@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAAA,KACE,kBAA2B,CAC3B,aAAyB,CACzB,iBAAkB","file":"main.ecab7b64.css","sourceRoot":"..\\src","sourcesContent":["body {\n  background: rgb(48, 47, 47);\n  color: rgb(176, 211, 200);\n  font-family: Arial;\n}\n"]}
